@@ -1,0 +1,8 @@
+@"
+__pycache__/
+.venv/
+venv/
+*.pyc
+investigator_review.db
+.env
+"@ | Set-Content .gitignore

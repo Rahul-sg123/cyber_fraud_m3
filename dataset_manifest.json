@@ -1,0 +1,9 @@
+{
+  "project": "Independent Module 3 synthetic fraud intelligence starter",
+  "seed": 20261029,
+  "case_count": 150,
+  "account_count": 500,
+  "transaction_count": 421,
+  "scenario_truth_count": 150,
+  "synthetic_only": true
+}
